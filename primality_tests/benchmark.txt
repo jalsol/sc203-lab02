@@ -1,0 +1,75 @@
+Testing primes of size 8 bits
+Trial division: 0 ms
+Trial division opt: 0 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 12 bits
+Trial division: 0 ms
+Trial division opt: 0 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 16 bits
+Trial division: 0 ms
+Trial division opt: 0 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 20 bits
+Trial division: 8.2 ms
+Trial division opt: 0 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 24 bits
+Trial division: 189.9 ms
+Trial division opt: 0 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 28 bits
+Trial division: 3072.4 ms
+Trial division opt: 0 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 32 bits
+Trial division: 50918.6 ms
+Trial division opt: 0 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 36 bits
+Trial division: N/A
+Trial division opt: 0 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 40 bits
+Trial division: N/A
+Trial division opt: 18.9 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 44 bits
+Trial division: N/A
+Trial division opt: 88.6 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 48 bits
+Trial division: N/A
+Trial division opt: 399.9 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 52 bits
+Trial division: N/A
+Trial division opt: 1577.8 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 56 bits
+Trial division: N/A
+Trial division opt: 6915.1 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 60 bits
+Trial division: N/A
+Trial division opt: 27428 ms
+Miller-Rabin: 0 ms
+==========================================
+Testing primes of size 64 bits
+Trial division: N/A
+Trial division opt: N/A
+Miller-Rabin: 0 ms
+==========================================
