@@ -12,7 +12,8 @@ int main() {
     bool run_eratosthenes = true;
     bool run_eratosthenes_opt = true;
 
-    for (uint64_t n : {10'000UL, 1'000'000UL, 100'000'000UL, 10'000'000'000UL}) {
+    uint64_t n = 10000;
+    for (int i = 4; i <= 10; i++, n *= 10) {
         std::cout << "Sieving primes up to " << n << std::endl;
 
         uint64_t tot_primality = 0;
