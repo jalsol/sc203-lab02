@@ -3,9 +3,9 @@
 #include <iostream>
 #include <chrono>
 
-// time limit is 10 seconds
-// above 10 seconds -> N/A next turn
-constexpr long double time_limit = 10000;
+// time limit is 20 seconds
+// above 20 seconds -> N/A next turn
+constexpr long double time_limit = 20000;
 
 int main() {
     bool run_primality_test = true;

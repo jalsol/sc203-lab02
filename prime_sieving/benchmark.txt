@@ -9,27 +9,27 @@ Sieve of Eratosthenes: 0 ms
 Segmented sieve of Eratosthenes: 0 ms
 ==========================================
 Sieving primes up to 1000000
-Primality test: 363 ms
+Primality test: 364 ms
 Sieve of Eratosthenes: 7 ms
 Segmented sieve of Eratosthenes: 3 ms
 ==========================================
 Sieving primes up to 10000000
-Primality test: 4380 ms
-Sieve of Eratosthenes: 75 ms
+Primality test: 4388 ms
+Sieve of Eratosthenes: 74 ms
 Segmented sieve of Eratosthenes: 35 ms
 ==========================================
 Sieving primes up to 100000000
-Primality test: 51195 ms
-Sieve of Eratosthenes: 831 ms
-Segmented sieve of Eratosthenes: 390 ms
+Primality test: 51201 ms
+Sieve of Eratosthenes: 834 ms
+Segmented sieve of Eratosthenes: 392 ms
 ==========================================
 Sieving primes up to 1000000000
 Primality test: N/A
-Sieve of Eratosthenes: 12825 ms
-Segmented sieve of Eratosthenes: 4958 ms
+Sieve of Eratosthenes: 12631 ms
+Segmented sieve of Eratosthenes: 4974 ms
 ==========================================
 Sieving primes up to 10000000000
 Primality test: N/A
-Sieve of Eratosthenes: N/A
-Segmented sieve of Eratosthenes: 79917 ms
+Sieve of Eratosthenes: 148765 ms
+Segmented sieve of Eratosthenes: 79877 ms
 ==========================================
